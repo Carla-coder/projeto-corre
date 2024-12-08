@@ -1,6 +1,4 @@
-
 # Projeto Corre!
-
 
 **Projeto-Corre!** é um aplicativo simples e interativo, desenvolvido como uma adaptação criativa do sistema do **LEKA - Aprenda Jogando!**, o aplicativo que será apresentado em meu TCC. Nesta versão, a ideia foi reaproveitar o logotipo, os ícones e o conceito do LEKA para criar um app gamificado, que motiva os usuários a completar tarefas de forma divertida. Com animações e uma navegação prática, o Projeto-Corre! serve como uma demonstração de habilidades em desenvolvimento mobile, utilizando React Native e Expo.
 
@@ -61,7 +59,6 @@ projeto-corre/
 │   ├── Corre.js          # Tela exibida quando a resposta é "Não"
 └── yarn.lock             # Arquivo de bloqueio das dependências gerenciadas pelo Yarn
 ```
-
 ## Como rodar o projeto
 
 1. Clone este repositório em sua máquina local.
@@ -105,8 +102,7 @@ projeto-corre/
 
 ```bash
     npm run web [(comando para inicializar o navegador (Starting Metro Bumbler)]
-```
-    
+```   
 ## Tecnologias utilizadas
 
 **Expo:** Framework para desenvolvimento de apps.
@@ -127,17 +123,13 @@ projeto-corre/
 
 ![fotos-mobile](https://github.com/user-attachments/assets/c44ae22f-45d9-4f67-9058-da074a7db25d)
 
-
 ## Documentação
 
 - Acesse a documentação pelo link https://reactnavigation.org/
 
-
-
 ## Autores
 
 - [@Carla-coder](https://www.github.com/Carla-coder)
-
 
 ## Instituição de Ensino
 
