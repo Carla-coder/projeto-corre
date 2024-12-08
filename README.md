@@ -26,7 +26,7 @@ Baseado no fluxograma, implementei os passos seguintes:
 
 - Se "Sim", pergunte: "Fez mobile?"
 
-- Continue o fluxo com verificações para "Fez documentação?" e "Fez apresentação?".
+- Continuei o fluxo com verificações para "Fez documentação?" e "Fez apresentação?".
 
 - Cada decisão leva a uma nova tela ou mensagem.
 
@@ -38,7 +38,7 @@ Baseado no fluxograma, implementei os passos seguintes:
 
 ### Estilo:
 
-Usei estilos simples para interface clara, com botões grandes e textos visíveis, além de ícones .gif e png para deixar as telas mais interativas.
+Usei estilos simples para interface clara, com botões grandes e textos visíveis, além de ícones gif e png para deixar as telas mais interativas.
 
 ### Estrutura de Pastas
 
@@ -117,9 +117,9 @@ projeto-corre/
 
 ## Funcionalidades
 
-- Navegação Simples: Uso de React Navigation para navegação entre telas.
-- Animações Motivacionais: Exibição de gifs e imagens para interação visual.
-- Fluxo Gamificado: Tela inicial, perguntas sequenciais e mensagem de finalização.
+- **Navegação Simples:** Uso de React Navigation para navegação entre telas.
+- **Animações Motivacionais:** Exibição de gifs e imagens para interação visual.
+- **Fluxo Gamificado:** Tela inicial, perguntas sequenciais e mensagem de finalização.
 
 ![fotos-mobile](https://github.com/user-attachments/assets/c44ae22f-45d9-4f67-9058-da074a7db25d)
 
