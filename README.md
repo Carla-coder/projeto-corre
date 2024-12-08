@@ -133,6 +133,6 @@ projeto-corre/
 
 ## Instituição de Ensino
 
-Escola Senai unidade Jaguariúna - Curso Técnico em Desenvolvimento de Sistemas FullStack - Segundo Semestre (2024)
+Escola Senai unidade Jaguariúna - Curso Técnico em Desenvolvimento de Sistemas FullStack - Terceiro Semestre (2024)
 
 Professor responsável pelo Projeto: Robson B. Souza https://github.com/robsonbsouzaa
