@@ -12,7 +12,7 @@ Iniciei o projeto React Native utilizando yarn e expo (ou CLI React Native).
 
 Estruturei o projeto com componentes para cada decisão do fluxograma sugerido.
 
-![Diagrama Corre](https://github.com/user-attachments/assets/d62305de-5d33-4a27-950d-4c74bff17fdf)
+- ![Diagrama Corre](https://github.com/user-attachments/assets/d62305de-5d33-4a27-950d-4c74bff17fdf)
 
 ### Tela Inicial:
 
@@ -124,6 +124,9 @@ projeto-corre/
 - Navegação Simples: Uso de React Navigation para navegação entre telas.
 - Animações Motivacionais: Exibição de gifs e imagens para interação visual.
 - Fluxo Gamificado: Tela inicial, perguntas sequenciais e mensagem de finalização.
+
+- ![fotos-mobile](https://github.com/user-attachments/assets/c44ae22f-45d9-4f67-9058-da074a7db25d)
+
 
 ## Documentação
 
