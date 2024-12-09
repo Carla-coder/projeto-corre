@@ -104,7 +104,7 @@ projeto-corre/
     npm run web [(comando para inicializar o navegador (Starting Metro Bumbler)]
 ```
 
- 8. O APK está na pasta docs
+ 8.  O APK está na pasta docs
 
 ## Tecnologias utilizadas
 
