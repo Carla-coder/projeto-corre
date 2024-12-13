@@ -1,7 +1,18 @@
 import React from 'react';
-import { View, Text, TouchableOpacity, StyleSheet, Image } from 'react-native';
+import { View, Text, TouchableOpacity, StyleSheet, Image, Alert, BackHandler } from 'react-native';
+
 
 export default function Fim({ navigation }) {
+  const confirmarSaida = () => {
+    Alert.alert(
+      'Sair do aplicativo',
+      'Você tem certeza que deseja sair?',
+      [
+        { text: 'Cancelar', style: 'cancel' },
+        { text: 'Sim', onPress: () => BackHandler.exitApp() }, // Fecha o app
+      ]
+    );
+  };
   return (
     <View style={styles.container}>
        <Image 
@@ -15,6 +26,12 @@ export default function Fim({ navigation }) {
           onPress={() => navigation.navigate('Inicio')}
         >
           <Text style={styles.buttonText}>Reiniciar</Text>
+        </TouchableOpacity>
+         <TouchableOpacity
+           style={styles.button}
+           onPress={() => navigation.navigate('Sair')}  // Redireciona para a tela de saída
+         >
+         <Text style={styles.buttonText}>Sair</Text>
         </TouchableOpacity>
       </View>
     </View>

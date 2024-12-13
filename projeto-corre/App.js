@@ -6,6 +6,7 @@ import Inicio from './screens/Inicio';
 import Corre from './screens/Corre';
 import Pergunta from './screens/Pergunta';
 import Fim from './screens/Fim';
+import Sair from './screens/Sair';
 
 const Stack = createStackNavigator();
 
@@ -17,6 +18,11 @@ export default function App() {
         <Stack.Screen name="Corre" component={Corre} />
         <Stack.Screen name="Pergunta" component={Pergunta} />
         <Stack.Screen name="Fim" component={Fim} />
+        <Stack.Screen 
+          name="Sair" 
+          component={Sair} 
+          options={{ title: 'Sair do Sistema' }} 
+        />
       </Stack.Navigator>
     </NavigationContainer>
   );
