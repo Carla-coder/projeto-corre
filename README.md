@@ -128,7 +128,7 @@ projeto-corre/
 - **Botão Sair:** Permite que o usuário saia do aplicativo a partir da tela Fim, funcionalidade implementada com BackHandler.exitApp(). (Disponível apenas para dispositivos Android).
 - **Geração de APK:** Compatível com o comando de construção do APK para instalação em dispositivos Android.
 
-![fotos-mobile](https://github.com/user-attachments/assets/c44ae22f-45d9-4f67-9058-da074a7db25d)
+![fotos-mobile-atualizada](https://github.com/user-attachments/assets/92d5ecbc-a935-4192-9da7-4fef1297aa77)
 
 ## Documentação
 
